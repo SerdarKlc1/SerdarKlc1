@@ -1,5 +1,13 @@
 # 💫 About Me:
-I am currently working on building my career path for frontend engineer<br>I am learning React now together with typescript<br>I am working on my e-commerce project<br>my hobby is to learn more about new technologies and trend
+Hi there! I'm Serdar, a frontend engineer in the making. My passion for web development began when I started exploring the possibilities of creating beautiful and interactive user interfaces. Since then, I've been on a mission to sharpen my skills and become a proficient frontend engineer.<br>
+
+Currently, I'm focusing on learning React and Typescript to build robust and scalable web applications. I find Typescript particularly exciting because of its ability to catch errors at compile-time, resulting in more reliable and maintainable code.<br>
+
+Aside from learning, I'm also working on my e-commerce project to gain hands-on experience in building real-world applications. I believe that working on side projects is a great way to learn and apply new skills.<br>
+
+In my free time, I enjoy staying up-to-date with the latest technologies and trends in the frontend world. I find it fascinating how quickly the industry evolves, and I'm always eager to learn more.<br>
+
+Thank you for visiting my profile! Feel free to check out my repositories.<br>
 
 
 ## 🌐 Socials:
