@@ -1,10 +1,3 @@
-### Hi there 👋
-
-<!--
-**SerdarKlc1/SerdarKlc1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # 💫 About Me:
 I am currently working on building my career path for frontend engineer<br>I am learning React now together with typescript<br>I am working on my e-commerce project<br>my hobby is to learn more about new technologies and trend
 
@@ -27,6 +20,3 @@ I am currently working on building my career path for frontend engineer<br>I am 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SerdarKlc1&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
--->
